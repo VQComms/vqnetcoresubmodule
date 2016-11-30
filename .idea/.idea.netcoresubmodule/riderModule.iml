@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../global.json" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../VQ/src/Enums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../VQ/src/VQViewModels" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VQ/src/Enums/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VQ/src/Enums/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VQ/src/VQViewModels/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../VQ/src/VQViewModels/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

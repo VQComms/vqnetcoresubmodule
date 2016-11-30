@@ -1,0 +1,3 @@
+[submodule "VQ"]
+	path = VQ
+	url = git@github.com:VQComms/VQ.git

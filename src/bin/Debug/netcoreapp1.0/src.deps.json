@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "src/1.0.0": {
+        "dependencies": {
+          "VQViewModels": "1.0.0"
+        },
+        "runtime": {
+          "src.dll": {}
+        }
+      },
+      "Enums/1.0.0": {
+        "runtime": {
+          "Enums.dll": {}
+        }
+      },
+      "VQViewModels/1.0.0": {
+        "dependencies": {
+          "Enums": "1.0.0"
+        },
+        "runtime": {
+          "VQViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "src/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VQViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
